@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = blakejunior14@gmail.com
+	name = Ian Blake
